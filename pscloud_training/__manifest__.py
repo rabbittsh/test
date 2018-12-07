@@ -2,7 +2,7 @@
 {
     'name': 'PS Cloud 培训 课时1',
     'version': '12.0.1.0',
-    'summary': 'PS Cloud 培训 课时1',
+    'summary': 'PS Cloud 培训',
     'author': "www.mypscloud.com",
     'website': 'https://www.mypscloud.com/',
     'category': 'Tools',
@@ -15,7 +15,6 @@
         'views/training_views.xml',
     ],
     
-    ],
     'qweb': [],
     'js': [],
     'css': [],
